@@ -1,0 +1,6 @@
+# 统一行尾，避免 Windows 客户端产生 CRLF 噪音
+* text=auto eol=lf
+
+*.py text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
